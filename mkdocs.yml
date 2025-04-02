@@ -1,0 +1,26 @@
+site_name: Ministry Docs
+theme:
+  name: material
+  logo: images/Victory-Logo-200-300x191.png
+  favicon: images/Victory-Logo-200-300x191.png
+docs_dir: ministry-docs/docs
+nav:
+  - Home: index.md
+  - Worship Guides:
+    - Basics: worship-guides/basics.md
+    - Advanced: worship-guides/advanced.md
+  - Outreach Programs:
+    - Local: outreach/local.md
+    - International: outreach/international.md
+  - Children's Ministry:
+    - Curriculum: childrens-ministry/curriculum.md  
+    - Safety Guidelines: childrens-ministry/safety.md
+  - Small Groups:
+    - Leadership Guide: small-groups/leadership.md
+    - Discussion Topics: small-groups/topics.md
+  - Media Production:
+    - Photography Guidelines: media-production/photography.md
+    - Videography Guidelines: media-production/videography.md
+  - Tech Booth:
+    - ProPresenter Guide: tech-booth/propresenter-guide.md
+    - OBS Studio Guide: tech-booth/obs-studio-guide.md
