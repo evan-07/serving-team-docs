@@ -33,4 +33,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./site/serving-team-docs
-          force_orphan: true
+          force_orphan: true # Optional: Use this if you want to create a new orphan branch for the deployment
