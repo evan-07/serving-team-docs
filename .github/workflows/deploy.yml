@@ -18,6 +18,12 @@ jobs:
           python -m pip install --upgrade pip
           pip install mkdocs-material
           pip install mkdocs
+      - name: Output root directory contents
+        run: ls -l
+      - name: Output serving-team-docs directory contents
+        run: ls -l serving-team-docs
+      - name: Check MkDocs version
+        run: mkdocs --version
       - name: Build MkDocs site
         run: mkdocs build --clean
       - name: Output site directory contents
