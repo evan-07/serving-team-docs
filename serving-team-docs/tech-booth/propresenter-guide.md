@@ -1,13 +1,13 @@
 # ProPresenter Operations Guide
 
-## Essential Keyboard Shortcuts
+## Essential Keyboard Shortcuts (These are examples only)
 - **Slide Advance**: Right Arrow 
 - **Previous Slide**: Left Arrow
 - **Toggle Stage Display**: `Cmd+D` (Mac) / `Ctrl+D` (Windows)
 - **Alert Timer**: `Cmd+Shift+T` / `Ctrl+Shift+T`
 - **Clear All Alerts**: `Cmd+Shift+C` / `Ctrl+Shift+C`
 
-## Best Practices
+## Best Practices (These are examples only)
 1. **Pre-Service Checklist**
    - Verify lyric slides against worship leader's plan
    - Test video playback at 1080p resolution

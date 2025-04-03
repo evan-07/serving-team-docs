@@ -1,12 +1,12 @@
 # OBS Studio Streaming Guide
 
-## Critical Shortcuts
+## Critical Shortcuts (These are examples only)
 - **Start/Stop Stream**: Ctrl+Alt+S
 - **Switch Scenes**: Number Keys 1-6
 - **Toggle Audio Mute**: M (per source selection)
 - **Studio Mode Transition**: Ctrl+T
 
-## Streaming Best Practices
+## Streaming Best Practices (These are examples only)
 1. **Pre-Stream Setup**
    - Test internet speed (minimum 10Mbps upload)
    - Create dedicated scenes for:
