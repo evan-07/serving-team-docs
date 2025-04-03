@@ -3,7 +3,7 @@ theme:
   name: material
   logo: images/Victory-Logo-200-300x191.png
   favicon: images/Victory-Logo-200-300x191.png
-docs_dir: serving-team-docs/docs
+docs_dir: serving-team-docs
 nav:
   - Home: index.md
   - Worship Guides:
