@@ -3,7 +3,7 @@ theme:
   name: material
   logo: images/Victory-Logo-200-300x191.png
   favicon: images/Victory-Logo-200-300x191.png
-docs_dir: ministry-docs/docs
+docs_dir: serving-team-docs/docs
 nav:
   - Home: index.md
   - Worship Guides:
@@ -13,7 +13,7 @@ nav:
     - Local: outreach/local.md
     - International: outreach/international.md
   - Children's Ministry:
-    - Curriculum: childrens-ministry/curriculum.md  
+    - Curriculum: childrens-ministry/curriculum.md
     - Safety Guidelines: childrens-ministry/safety.md
   - Small Groups:
     - Leadership Guide: small-groups/leadership.md
