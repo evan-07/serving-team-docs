@@ -1,22 +1,20 @@
 # ProPresenter Operations Guide
 
-## Essential Keyboard Shortcuts (These are examples only)
+## Essential Keyboard Shortcuts in Presentation Mode
 - **Slide Advance**: Right Arrow 
 - **Previous Slide**: Left Arrow
-- **Toggle Stage Display**: `Cmd+D` (Mac) / `Ctrl+D` (Windows)
-- **Alert Timer**: `Cmd+Shift+T` / `Ctrl+Shift+T`
-- **Clear All Alerts**: `Cmd+Shift+C` / `Ctrl+Shift+C`
+- **Clear Slide**: F2
+- **Clear Media**: F3
+- For more shortcuts, visit [Propresenter Keyboard Shortcuts](https://support.renewedvision.com/hc/en-us/articles/360042123293-Keyboard-Shortcuts-in-ProPresenter)
 
-## Best Practices (These are examples only)
-1. **Pre-Service Checklist**
-   - Verify lyric slides against worship leader's plan
-   - Test video playback at 1080p resolution
-   - Confirm clock synchronization with stream computer
-
-2. **File Management**
-   - Name presentations: `YYYY-MM-DD_ServiceType.pro6`
-   - Store backups on ministry Google Drive weekly
-
-3. **Stage Display Setup**
-   - Main screen: Current slide + next slide
-   - Confidence monitor: Timer overlay + chord charts
+## Pre-Service Checklist
+   - Arrive 1 hour early before the service to give plenty of time for preparation.
+   - Turn on the computers, big screens and stage display.
+   - Launch Propresenter.
+   - Add the song lyrics in the playlist (e.g. Sunday Service).
+   - Scan the lyrics and catch any typos and formatting issues.
+   - Ensure song lyrics are in the middle of the screen for AM service, and lower-thirds for PM service.
+   - Choose appropriate background for each song.
+   - Request the sermon keynote from Stage management team if not yet provided. 
+   - Preview the keynote to be familiar with the content. Ensure readability and catch typos.
+   - Verify that output is displaying correctly on all screens (e.g. Big screens and stage displays).
