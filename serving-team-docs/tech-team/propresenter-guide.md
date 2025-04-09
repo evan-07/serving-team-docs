@@ -1,5 +1,7 @@
 # ProPresenter Operations Guide
 
+Propresenter is our primary software used for presenting
+
 ## Essential Keyboard Shortcuts in Presentation Mode
 - **Slide Advance**: Right Arrow 
 - **Previous Slide**: Left Arrow
