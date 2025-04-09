@@ -5,21 +5,21 @@ The Tech Serving Team works behind the scenes, providing the audio-visual suppor
 We are artists who present with excellence. We value detail and precision. We are the primary and strongest support for everyone on stage.
 
 ## Mission
-To pursue excellence wherever we serve—using our God-given skills and talents to bless others, honor God, and bring glory to His name
+To pursue excellence wherever we serve—using our God-given skills and talents to bless others, honor God, and bring glory to His name.
 
 ## Vision
 To advance God’s Kingdom by providing excellent technical support for our movement, while intentionally discipling and empowering one another as we serve together.
 
 ## Core Values
 ### Discipleship
-- We grow together to become more like Christ
-- Give grace freely as we all learn and grow
+- We grow together to become more like Christ.
+- Give grace freely as we all learn and grow.
 ### Excellence
 - We honor God by giving our very best.
 ### Servant Leadership
 - We lead with love, not position.
 - We are here to serve, not to impress.
-- Stay humble, stay teachable
+- Stay humble, stay teachable.
 
 ## Technical Serving Team Guidelines
 - **Respect the Workspace**: Keep the booth clean and organized. No food or beverages allowed. Always practice CLAYGO (Clean As You Go).
