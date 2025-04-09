@@ -50,7 +50,6 @@ Operate cameras to provide clear livestream coverage—wide shots for capturing 
 
 ## Team Calendar
 
-- **Dynamic (Read-Only Access)**: [View Calendar](https://calendar.online/aaff2ec968c008cdb0c6)
-- **Dynamic (Modifier Access)**: [Manage Calendar](https://calendar.online/3e78ca7ad8da598ec1a4)
+- **Read-Only Access (Dynamic)**: [View Calendar](https://calendar.online/aaff2ec968c008cdb0c6)
+- **Modifier Access (Dynamic)**: [Manage Calendar](https://calendar.online/3e78ca7ad8da598ec1a4)
 - **Calendar ICS (Static, does not update)**: [Download ICS File](https://export.calendar.online/ics/0/aaff2ec968c008cdb0c6/entirecalendar.ics?past_months=3&future_months=36)
-- **Calendar ICS(Static, does not update)** : https://export.calendar.online/ics/0/aaff2ec968c008cdb0c6/entirecalendar.ics?past_months=3&future_months=36
