@@ -27,3 +27,6 @@ nav:
     - Team Calendar: tech-team/calendar.md
     - ProPresenter Guide: tech-team/propresenter-guide.md
     - OBS Studio Guide: tech-team/obs-studio-guide.md
+markdown_extensions:
+  - attr_list
+  - md_in_html
