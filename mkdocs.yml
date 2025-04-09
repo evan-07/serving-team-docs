@@ -22,5 +22,6 @@ nav:
     - Photography Guidelines: media-production/photography.md
     - Videography Guidelines: media-production/videography.md
   - Tech Team:
+    - General Information: tech-team/general-info.md
     - ProPresenter Guide: tech-team/propresenter-guide.md
     - OBS Studio Guide: tech-team/obs-studio-guide.md
