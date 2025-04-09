@@ -1,6 +1,6 @@
 # ProPresenter Operations Guide
 
-Propresenter is our primary software used for presenting
+ProPresenter is the central presentation software used to display song lyrics, call to worship scriptures, videos, and other visual media during services and events.
 
 ## Essential Keyboard Shortcuts in Presentation Mode
 - **Slide Advance**: Right Arrow 
