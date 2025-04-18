@@ -19,14 +19,15 @@ nav:
 #  - Small Groups:
 #    - Leadership Guide: small-groups/leadership.md
 #    - Discussion Topics: small-groups/topics.md
-  - Multimedia Production:
-    - Photography Guidelines: media-production/photography.md
-    - Videography Guidelines: media-production/videography.md
+  - Multimedia Team:
+    - Photography Guidelines: multimedia-team/photography.md
+    - Videography Guidelines: multimedia-team/videography.md
   - Tech Team:
     - General Information: tech-team/general-info.md
     - Team Calendar: tech-team/calendar.md
     - ProPresenter Guide: tech-team/propresenter-guide.md
     - Livestream Guide: tech-team/livestream-guide.md
+    - Video Camera Guide: tech-team/video-camera-guide.md
 markdown_extensions:
   - attr_list
   - md_in_html
