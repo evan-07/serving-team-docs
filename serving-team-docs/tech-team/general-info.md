@@ -45,6 +45,4 @@ Create an inviting atmosphere by managing lights creatively and skillfully.
 ### Video Camera Operators (Main & Moving)
 Operate cameras to provide clear livestream coverage—wide shots for capturing the whole stage, and moving (tight) shots to follow speakers or pastors closely as they move.
 
-
-
-
+---

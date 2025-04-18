@@ -23,3 +23,5 @@ ProPresenter is the central presentation software used to display song lyrics, c
       - Ensure readability and catch typos.
    - Verify that output is displaying correctly on all screens (e.g. Big screens and stage displays).
    - Coordinate with the Stage management team if a clicker will be used by the Pastor.
+
+---

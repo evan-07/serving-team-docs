@@ -23,3 +23,5 @@
    - Record locally while streaming
    - Use MKV format to prevent file corruption
    - File naming: Stream_YYYY-MM-DD_HHMM.mkv
+
+---
