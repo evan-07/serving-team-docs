@@ -3,12 +3,12 @@
 ## Equipment Specifications
 
 ### Camera Bodies
-- Cameras with IBIS (In-Body Image Stabilization), preferably Full Frame sensors:
+Cameras with IBIS (In-Body Image Stabilization), preferably Full Frame sensors:
   - Sony a7 III/IV (Full Frame)
   - Sony a6600/a6700 (APS-C)
 
 ### Lenses
-- Zoom lenses with OIS (Optical Image Stabilization):
+Zoom lenses with OIS (Optical Image Stabilization), for example:
   - Tamron 70-180mm f/2.8 Di III VC VXD G2
   - Tamron 50-300mm f/4.5-6.3 Di III VC VXD
   - Sony FE 70-200mm f/4 G OSS II
